@@ -55,7 +55,10 @@ p {
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
-    background: lightsalmon
+    background: lightsalmon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
     
 }
